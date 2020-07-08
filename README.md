@@ -1,2 +1,3 @@
 # [nianglao.github.io](https://nianglao.github.io/)
-Self blog website
+
+This blog use [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
